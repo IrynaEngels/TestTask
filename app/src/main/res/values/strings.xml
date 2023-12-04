@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="app_name_toolbar">Test Android</string>
+    <string name="example_text">Charlotte Perriand\’s \“La maison au bord de l\’eau\”</string>
+    <string name="search_hint">Search something</string>
+    <string name="list_fragment">Open List Fragment</string>
+    <string name="text_fragment">Open Text Fragment</string>
+    <string name="welcome_to_navigation_menu">Welcome to navigation menu!</string>
+</resources>
